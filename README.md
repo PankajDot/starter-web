@@ -17,3 +17,4 @@ This is a simple web project, so it can be deploy anywhere
 Sample website with plenty of files for demos
 
 ## How to Contribute
+You can send a new pull request.
